@@ -8,4 +8,4 @@ This repo contains a quick tutorial how start using Apache Kafka with Spring Boo
 
 [3 - Topic CLI](topic-cli.md)
 
-4 - Kafka Producer CLI
+[4 - Kafka Producer and Consumer CLI](kafka-producer-cli.md)
