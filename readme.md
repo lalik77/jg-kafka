@@ -6,4 +6,6 @@ This repo contains a quick tutorial how start using Apache Kafka with Spring Boo
 
 [2 - Run several servers. Setup a Three-Node Kafka KrRaft cluster](run-multiple-servers.md)
 
-3 - Topic CLI
+[3 - Topic CLI](topic-cli.md)
+
+4 - Kafka Producer CLI
